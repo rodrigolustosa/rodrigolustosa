@@ -1,6 +1,6 @@
 ### Hi there, I'm Rodrigo! 👋
 
-- 🌦️ I’m meteorologist and PhD student at Instituto de Astronomia, Geofísica e Ciências Atmosférias da Universidade de São Paulo (IAG/USP). I study Urban Heat Islands 🌆️, especially in the Metropolitan Region of São Paulo, Brazil, and I mainly use data from remote sensing and weather stations. I've also worked with rain estimation with remote sensing and radar! 
+- 🌦️ I’m meteorologist and PhD student at Instituto de Astronomia, Geofísica e Ciências Atmosférias da Universidade de São Paulo (IAG/USP). I study Urban Heat Islands 🌆️, especially in the Metropolitan Region of São Paulo, Brazil, and I mainly use data from remote sensing and weather stations. I've also worked with rain estimation with remote sensing and radar.
 - 🧑‍💻️ I code primarily with R and Javascript (on Google Earth Engine), and secondly with Python. 
 - 😄 Pronouns: he/him/his
 <!--
